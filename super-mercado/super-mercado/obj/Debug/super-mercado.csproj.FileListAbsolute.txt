@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\bin\Debug\super-mercado.exe.config
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\bin\Debug\super-mercado.exe
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\bin\Debug\super-mercado.pdb
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super-mercado.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super_mercado.superMercado.resources
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super_mercado.Properties.Resources.resources
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super-mercado.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super-mercado.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super-mercado.exe
+C:\Users\Aluno\source\repos\super-mercado\super-mercado\obj\Debug\super-mercado.pdb
