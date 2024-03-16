@@ -1,0 +1,24 @@
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\bin\Debug\calculadora-2ds.exe.config
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\bin\Debug\calculadora-2ds.exe
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\bin\Debug\calculadora-2ds.pdb
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora-2ds.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora_2ds.Form1.resources
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora_2ds.Properties.Resources.resources
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora-2ds.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora-2ds.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora-2ds.exe
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora-2ds.pdb
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\bin\Debug\NCalc.dll
+C:\Users\Aluno\Documents\2ds\calculadora-2ds\obj\Debug\calculadora-2ds.csproj.CopyComplete
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\bin\Debug\calculadora-2ds.exe.config
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\bin\Debug\calculadora-2ds.exe
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\bin\Debug\calculadora-2ds.pdb
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\bin\Debug\NCalc.dll
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora-2ds.csproj.AssemblyReference.cache
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora_2ds.Form1.resources
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora_2ds.Properties.Resources.resources
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora-2ds.csproj.GenerateResource.cache
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora-2ds.csproj.CoreCompileInputs.cache
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculad.8401079F.Up2Date
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora-2ds.exe
+C:\Meus Arquivos\TIPOS\GIT\Github\desenvolvimento-de-sistemas-dotnet2\calculadora-2ds\obj\Debug\calculadora-2ds.pdb
