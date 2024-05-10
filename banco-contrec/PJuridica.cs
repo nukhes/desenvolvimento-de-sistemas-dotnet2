@@ -8,10 +8,11 @@ namespace banco
 {
     class PJuridica : Cliente
     {
-        private long cnpj;
+
+        Random rnd = new Random();
         private string razaoSocial;
         private string inscricaoEstadual;
-        public long Cnpj { get => cnpj; set => cnpj = value; }
+        public long Cnpj { get; set; }
         public string RazaoSocial { get => razaoSocial; set => razaoSocial = value; }
         public string InscricaoEstadual { get => inscricaoEstadual; set => inscricaoEstadual = value; }
 
@@ -27,12 +28,23 @@ namespace banco
 
         public string alertarDados()
         {
-            return ("\nInscrição Estadual: " + this.inscricaoEstadual +
-                   "\nCNPJ: " + this.cnpj +
+            return ("\nInscrição Estadual: " + this.InscricaoEstadual +
+                   "\nCNPJ: " + this.Cnpj +
                    "\nRazao Social: " + this.RazaoSocial +
                    "\nEndereco: " + this.Endereco +
                    "\nFone: " + this.Telefone +
                    "\nEmail: " + this.Email);
         }
+        public void CadastrarJuridica(long cpf, string nome, string rg, string endereco, string telefone, string email)
+        {
+            this.Cnpj = cpf;
+            this.RazaoSocial = nome;
+            this.InscricaoEstadual = rg;
+            this.Telefone = telefone;
+            this.Endereco = endereco;
+            this.Email = email;
+            this.Conta = new Conta(rnd.Next(1,9999), 1100);
+        }
+
     }
 }

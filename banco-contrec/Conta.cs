@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace banco
 {
-    class Conta
+    public class Conta
     {
         // Atributos da conta bancária.
         private int numero;
-        public PFisica titular;
         private double saldo;
 
         public double Saldo { get => saldo; set => saldo = value; }
+        public int Numero { get => numero; set => numero = value; }
 
         public Conta(int numero, double saldo)
         {
